@@ -16,7 +16,7 @@
         public $debug = "false"; // enable this true if u have error while sending email;
         public $fromEmail;
         public $fromName;
-        public $fromPassword; //ezeikexhdrmzwboa
+        public $fromPassword;
         public $toEmail;
         public $toName;
         public $subject;
